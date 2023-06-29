@@ -19,6 +19,6 @@ if (Test-Path -Path $Folder) {
     py -3 -m venv $Folder
     & "$Folder\scripts\activate"
     & "$Folder/scripts/python.exe" -m pip install --upgrade pip
-    & pip install pygame --pre
+    & pip install pygame
     & "$Folder/scripts/python.exe" -u "`"$PSScriptRoot\$Filename`""
 }
