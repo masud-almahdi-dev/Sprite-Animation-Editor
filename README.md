@@ -27,6 +27,6 @@ Run in a virtual environment for testing.
 ### Design:
 I will be uploading designs here: **(soon - Maybe tomorrow...)**
 
-![design-page-01](docs/imgs/Frame15.jpg)
+![design-page-01](docs/imgs/Frame15.png)
 
-![design-page-02](docs/imgs/Frame16.jpg)
+![design-page-02](docs/imgs/Frame16.png)
